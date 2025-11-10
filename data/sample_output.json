@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Audi A6 3,0 TDI Competition Quattro tiptronic",
+    "url": "https://www.autoscout24.com/offers/audi-a6-3-0-tdi-competition-quattro-tiptronic-diesel-grey-000f816d-f1cb-4cca-94f3-83530effb6ee",
+    "mark": "Audi",
+    "model": "A6",
+    "modelVersion": "3.0 TDI Competition Quattro tiptronic",
+    "location": "Kainbach bei Graz, AT",
+    "dealerName": "KFZ Hödl GmbH",
+    "dealerRatings": "1199 Ratings",
+    "price": "€ 31,980",
+    "rawPrice": 31980,
+    "currency": "EUR",
+    "milage": "161,415 km",
+    "mileageKm": 161415,
+    "gearbox": "Automatic",
+    "firstRegistration": "01/2016",
+    "fuelType": "Diesel",
+    "power": "240 kW (326 hp)",
+    "powerKW": 240,
+    "powerHP": 326,
+    "seller": "Dealer",
+    "contactName": "Sales Team",
+    "contactPhone": "+43 123 456789",
+    "bodyType": "Sedan",
+    "drivetrain": "4WD",
+    "seats": "5 seats",
+    "seatsNum": 5,
+    "engineSize": "2,967 cc",
+    "engineSizeCC": 2967,
+    "gears": "8",
+    "gearsNum": 8,
+    "emissionClass": "Euro 5",
+    "comfort": [
+      "Automatic climate control",
+      "Cruise control",
+      "Leather seats"
+    ],
+    "media": [
+      "Bluetooth",
+      "CD player",
+      "Navigation system"
+    ],
+    "safety": [
+      "ABS",
+      "Airbags",
+      "ESP"
+    ],
+    "extras": [
+      "Alloy wheels",
+      "Sport package"
+    ],
+    "colour": "Grey",
+    "manufacturerColour": "Daytona Grey Pearl Effect",
+    "productionDate": "2016",
+    "images": [
+      "https://example.com/images/audi-a6-front.jpg",
+      "https://example.com/images/audi-a6-side.jpg",
+      "https://example.com/images/audi-a6-interior.jpg"
+    ]
+  }
+]
