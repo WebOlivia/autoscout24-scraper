@@ -1,0 +1,20 @@
+{
+  "maxRecords": 300,
+  "timeoutSeconds": 15,
+  "parallelRequests": 8,
+  "outputFormat": "json",
+  "outputFile": "data/sample_output.json",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Autoscout24Scraper/1.0",
+  "proxies": [],
+  "countries": [
+    "com",
+    "de",
+    "it",
+    "fr",
+    "es",
+    "nl",
+    "at",
+    "be"
+  ],
+  "notes": "This is an example configuration. Copy it to a new file if you want environment-specific overrides."
+}
