@@ -1,0 +1,11 @@
+{
+  "startUrls": [
+    "https://www.autoscout24.com/lst",
+    "https://www.autoscout24.de/lst"
+  ],
+  "maxRecords": 50,
+  "outputFormat": "json",
+  "outputFile": "data/sample_output.json",
+  "country": "de",
+  "parallelRequests": 8
+}
