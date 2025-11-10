@@ -1,0 +1,5 @@
+txt# Example Autoscout24 search and detail URLs used as defaults
+https://www.autoscout24.com/lst
+https://www.autoscout24.de/lst
+# Example of a single detail page URL:
+# https://www.autoscout24.com/offers/audi-a6-3-0-tdi-competition-quattro-tiptronic-diesel-grey-000f816d-f1cb-4cca-94f3-83530effb6ee
